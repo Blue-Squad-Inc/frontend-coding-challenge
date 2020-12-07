@@ -3,6 +3,7 @@
 ## Objective
 - Start by a taking a look at all the mockups provided in the `mockups` directory and then come back to read the rest. 
 - Your objective is to implement a webapp that starts at the `login` mockup. Logging in will redirect the user to the dashboard. The dashboard should look like and provide the functionality evident in the `dashboard` mockup. The whole app should be responsive. We've provided a mobile mockup for the dashboard.
+  - The icons used in the dashboard are from Fontawesome
 - All http requests will be sent to an api we're hosting @ `https://mock-api.bluesquad.co`. We've provided a postman collection in this repo that contains all the available endpoints that this api has. Explore the api to get a feel for which endpoints need to be leveraged in order to facilitate the expected behavior of the webapp.
   - In the email we sent with a link to this repo, we provided you with a username and password that can be used to authenticate with the api.
 
@@ -21,7 +22,7 @@
   - Extendability. It should be easy to add additional features to your submission
 
 ## Submission Instructions
-- **We're expecting this coding challenge to take you no more than 1 week from the day you receive it**.
+- We're expecting this coding challenge to take you no more than three days in terms of total time spent. Ideally, you can submit your solution within one week of receiving the challenge.  If you find yourself taking more than two days to complete the challenge, this role may not be a fit for you.
 - Create a github repo, feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to boot up your submission.
 - Send Shion a link to your repo when you're ready for us to take a look.
