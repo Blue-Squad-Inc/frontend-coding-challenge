@@ -22,7 +22,7 @@
   - Extendability. It should be easy to add additional features to your submission
 
 ## Submission Instructions
-- We're expecting this coding challenge to take you no more than three days in terms of total time spent. Ideally, you can submit your solution within one week of receiving the challenge.  If you find yourself taking more than two days to complete the challenge, this role may not be a fit for you.
+- We're expecting this coding challenge to take you no more than three days in terms of total time spent. Ideally, you can submit your solution within one week of receiving the challenge.  If you find yourself taking more than three days to complete the challenge, this role may not be a fit for you.
 - Create a github repo, feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to boot up your submission.
 - Send Shion a link to your repo when you're ready for us to take a look.
