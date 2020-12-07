@@ -22,7 +22,7 @@
 - **We're expecting this coding challenge to take you no more than 1 week from the day you receive it**. Create a github repo, feel free to name it whatever you want. Add everything necessary into that repo along with instructions on how to boot up your submission. Send Shion a link to your repo when you're ready for us to take a look.
 
 ## Additional Thoughts
-- We've left these instructions to be a little vague because a part of this challenge is for you to figure out what's required to make things work. That said, please don't hesitate to ask questions! We'll let you know if it's something we expect you to figure out on your own :). Good luck and we hope you have fun!
+- We've left these instructions to be a little vague because a part of this challenge is you figuring out what to do and how to do it. That said, please don't hesitate to ask questions! We'll let you know if it's something we expect you to figure out on your own :). Good luck and we hope you have fun!
 
 
 ## Useful links
