@@ -22,7 +22,8 @@
   - Extendability. It should be easy to add additional features to your submission
 
 ## Submission Instructions
-- We're expecting this coding challenge to take you no more than three days in terms of total time spent. Ideally, you can submit your solution within one week of receiving the challenge.  If you find yourself taking more than three days to complete the challenge, this role may not be a fit for you.
+- Spend up to two days (16 hours) working on your submission. Submit whatever you've gotten done at the 16 hour mark. Finishing the entire challenge is great and will definitely serve to your advantage. However, it's also ok if you don't completely finish.
+  - If you find yourself running out of time, we prefer that you prioritize funtionality over styling the webapp exactly as the mockups show.
 - Create a github repo, feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to boot up your submission.
 - Send Shion a link to your repo when you're ready for us to take a look.
