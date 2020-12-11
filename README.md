@@ -22,7 +22,7 @@
   - Extendability. It should be easy to add additional features to your submission
 
 ## Submission Instructions
-- Spend up to two days (16 hours) working on your submission. Submit whatever you've gotten done at the 16 hour mark. Finishing the entire challenge is great and will definitely serve to your advantage. However, it's also ok if you don't completely finish.
+- We recommend spending no more than two days (16 hours) working on your submission. If you're finding that the work is taking longer than this, it's possible that this role may not be the best fit for you. If you do take longer than two days, please let us know when submitting.
   - If you find yourself running out of time, we prefer that you prioritize funtionality over styling the webapp exactly as the mockups show.
 - Create a github repo, feel free to name it whatever you want.
 - Add everything necessary into that repo along with instructions on how to boot up your submission.
